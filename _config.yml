@@ -37,7 +37,19 @@ twitter_username: none(트위터안함)
 github_username:  CoffeerLatte
 # time zone  
 timezone: Asia/Seoul
+yat:
+  date_format: "%b %d, %Y"
 # Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
 #theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
