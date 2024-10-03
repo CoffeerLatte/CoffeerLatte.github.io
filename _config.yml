@@ -37,8 +37,8 @@ twitter_username: none(트위터안함)
 github_username:  CoffeerLatte
 
 # Build settings
-theme: jekyll-theme-yat
-# remote_theme: "jeffreytse/jekyll-theme-yat"
+#theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
