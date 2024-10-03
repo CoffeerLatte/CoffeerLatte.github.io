@@ -35,7 +35,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://CoffeerLatte.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none(트위터안함)
 github_username:  CoffeerLatte
-
+# time zone  
+timezone: Asia/Seoul
 # Build settings
 #theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
