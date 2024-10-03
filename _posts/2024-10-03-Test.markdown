@@ -10,7 +10,8 @@ Put the math expression within <span>$</span>...\$:
 
 \\(\LaTeX{}\\)
 
-$\Pi$
+$\Pi
+$
 
 $ a * b = c ^ b $
 
